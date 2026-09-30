@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+build/
+dist/
+*.spec
+self-test-report.json
